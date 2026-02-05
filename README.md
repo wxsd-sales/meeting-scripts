@@ -6,7 +6,7 @@ A collection of Python scripts for interacting with the Webex Meetings API. This
 
 ## Demo
 <!-- Replace with your video URL -->
-[![Demo Video](screenshot-placeholder.png)](https://your-video-url-here)
+[![Demo Video](https://github.com/user-attachments/assets/1032217b-ce27-49e3-bbaf-bafc74df8c6a)](https://app.vidcast.io/share/1a55da3a-8934-47f9-bd8a-759bb919c183)
 
 ## Developer Documentation
 
